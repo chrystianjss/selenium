@@ -1,12 +1,13 @@
-Exercicio realizado para exemplificar a utilização dos scripts selenium, teste feito com o navegador Edge.
+Exercicio realizado para exemplificar a utilização dos scripts selenium (diretamente no codigo de teste), <b>teste feito com o navegador Edge.</b>
 
-Sistema Operacional: Windows 10
-IDE: Eclipse Luna
-Java: 1.8
-Git Bash 1.9.2
-Gradle 2.13
+<p><b>Ambiente</b></p>
+Sistema Operacional: Windows 10<br>
+IDE: Eclipse Luna<br>
+Java 1.8<br>
+Git Bash 1.9.2<br>
+Gradle 2.13<br>
 
-Passos para rodar a aplicação no Eclipse:
+<p><b>Passos para rodar a aplicação no Eclipse:</b><p>
 
 1) Clonar o repositório
 git clone https://github.com/chrystianjss/selenium.git
@@ -24,8 +25,7 @@ cd selenium
 
 6) Em seguida clicar em Start the server e acessar no navegador a URL http://localhost:8080/selenium/login.xhtml
 
-
-Para realizar o teste do Selenium, realizar os seguintes passos:
+<p><b>Para realizar o teste do Selenium, realizar os seguintes passos:</b></p>
 
 1) Realilzar o download do webdriver do Edge:
 https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
