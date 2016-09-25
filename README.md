@@ -1,3 +1,5 @@
+<p><b>Autor: </b>Chrystian Soares<p>
+
 Exercicio realizado para exemplificar a utilização dos scripts selenium (diretamente no codigo de teste), <b>teste feito com o navegador Edge.</b>
 
 <p><b>Ambiente</b></p>
